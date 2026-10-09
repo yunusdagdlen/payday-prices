@@ -7,7 +7,7 @@ Payday uygulaması için günlük fiyat beslemesi. GitHub Actions hafta içi her
 
 çekip `prices.json` dosyasını günceller. Uygulama bu dosyayı okur; EVDS anahtarı yalnızca bu reponun secret'ında durur.
 
-Besleme adresi: `https://raw.githubusercontent.com/<KULLANICI_ADI>/payday-prices/main/prices.json`
+Besleme adresi: `https://raw.githubusercontent.com/yunusdagdlen/payday-prices/main/prices.json`
 
 ## Kurulum
 
