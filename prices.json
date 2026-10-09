@@ -1,0 +1,34 @@
+{
+  "currencies": {
+    "USD": {
+      "buying": 49.1267,
+      "selling": 49.2152,
+      "date": "2026-10-08"
+    },
+    "EUR": {
+      "buying": 54.9548,
+      "selling": 55.0538,
+      "date": "2026-10-08"
+    },
+    "GBP": {
+      "buying": 64.7214,
+      "selling": 65.0588,
+      "date": "2026-10-08"
+    },
+    "CHF": {
+      "buying": 58.8005,
+      "selling": 59.178,
+      "date": "2026-10-08"
+    }
+  },
+  "gold": {
+    "gram": {
+      "price": 6644.0,
+      "date": "2026-10-02",
+      "series": "TP.ALTINPIYASA.KAP02",
+      "unit": "TRY/gram"
+    }
+  },
+  "updatedAt": "2026-10-09T11:50:18+00:00",
+  "source": "TCMB günlük kurlar (döviz alış/satış) · TCMB EVDS BİST altın kapanış"
+}
