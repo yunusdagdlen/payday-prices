@@ -1,34 +1,34 @@
 {
   "currencies": {
     "USD": {
-      "buying": 50.5866,
-      "selling": 50.6777,
-      "date": "2026-11-26"
+      "buying": 50.6044,
+      "selling": 50.6955,
+      "date": "2026-11-27"
     },
     "EUR": {
-      "buying": 55.4968,
-      "selling": 55.5968,
-      "date": "2026-11-26"
+      "buying": 55.5058,
+      "selling": 55.6058,
+      "date": "2026-11-27"
     },
     "GBP": {
-      "buying": 66.186,
-      "selling": 66.531,
-      "date": "2026-11-26"
+      "buying": 66.3099,
+      "selling": 66.6556,
+      "date": "2026-11-27"
     },
     "CHF": {
-      "buying": 60.5744,
-      "selling": 60.9634,
-      "date": "2026-11-26"
+      "buying": 60.4615,
+      "selling": 60.8497,
+      "date": "2026-11-27"
     }
   },
   "gold": {
     "gram": {
-      "price": 6000.0,
-      "date": "2026-11-26",
+      "price": 6085.0,
+      "date": "2026-11-27",
       "series": "TP.ALTINPIYASA.KAP02",
       "unit": "TRY/gram"
     }
   },
-  "updatedAt": "2026-11-26T22:01:57+00:00",
+  "updatedAt": "2026-11-27T21:44:54+00:00",
   "source": "TCMB günlük kurlar (döviz alış/satış) · TCMB EVDS BİST altın kapanış"
 }
